@@ -35,6 +35,7 @@
 <img width="1084" alt="Screenshot 2022-06-15 at 22 28 49" src="https://user-images.githubusercontent.com/57015713/173916127-75075e12-218a-4a8d-9904-f61ce2de584c.png">
 <img width="1093" alt="Screenshot 2022-06-15 at 22 29 38" src="https://user-images.githubusercontent.com/57015713/173916151-0c7bad60-3d83-455b-941c-edb7a3f1fa93.png">
 
+Табличка с выбранными кластерами, названиями белков для каждой бактерии, количеством zdna, функциями (взяты из feature table), координатами кластера, координатами zdna и zdna score
 
 |# Species	|Genes	|Alg.-Conn.	|protein.As.faa	|protein.Ha.faa	|protein.Ma.faa	|protein.Pa.faa	|protein.Sa.faa	|# Zdna	|function	|Z-DNA start	|Z-DNA end	|Z-DNA score	|Cluster start	|Cluster end|
 | -------- | -------- | ------------------ | --------------- | ------------------- | ------------- |-------- | ------------------ | --------------- | ------------------- | ------------- |-------- | -------- | ------------------ | ------ |
