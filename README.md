@@ -30,3 +30,13 @@
 Ни в одном из кластеров нет z-dna в более, чем одной бактерии
 Получается, что таких кластеров, у которых у гомологичных белков сохраняется участки Z-DNA в разных геномах - нет
 
+Визуализация для некоторых кластеров (для оставшихся есть в колабе. иногда зднк находится рядом с протеином, чтобы возможность наличия нескольких днк была больше, но это не помогло)
+<img width="1083" alt="Screenshot 2022-06-15 at 22 29 52" src="https://user-images.githubusercontent.com/57015713/173916104-864887de-521a-40f1-97ac-a6612c2453c7.png">
+<img width="1084" alt="Screenshot 2022-06-15 at 22 28 49" src="https://user-images.githubusercontent.com/57015713/173916127-75075e12-218a-4a8d-9904-f61ce2de584c.png">
+<img width="1093" alt="Screenshot 2022-06-15 at 22 29 38" src="https://user-images.githubusercontent.com/57015713/173916151-0c7bad60-3d83-455b-941c-edb7a3f1fa93.png">
+
+
+## Квадруплексы
+Ни для одного генома квадруплексов не нашлось.
+
+<img width="763" alt="Screenshot 2022-06-15 at 22 55 52" src="https://user-images.githubusercontent.com/57015713/173916057-d5710928-313e-4799-bd91-b651078d6d8a.png">
