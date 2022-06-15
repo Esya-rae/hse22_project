@@ -36,6 +36,17 @@
 <img width="1093" alt="Screenshot 2022-06-15 at 22 29 38" src="https://user-images.githubusercontent.com/57015713/173916151-0c7bad60-3d83-455b-941c-edb7a3f1fa93.png">
 
 
+|index	|# Species	|Genes	|Alg.-Conn.	|protein.As.faa	|protein.Ha.faa	|protein.Ma.faa	|protein.Pa.faa	|protein.Sa.faa	|# Zdna	|function	|Z-DNA start	|Z-DNA end	|Z-DNA score	|Cluster start	|Cluster end|
+|0|	213	|5	|5	|1.0	|KXB58042.1	|KXB59111.1	|WP_021752439.1	|WP_179940320.1	|WP_031551257.1	|1	|acyl-CoA |thioesterase	|144956|	144964	|650.9198	|144949	|145449|
+|1	|333	|5	|5	|1.0	|KXB58649.1	|KXB61962.1|	WP_062173118.1|	WP_179940720.1	|WP_031550108.1	|1	|cell |cycle protein, FtsW/RodA/SpoVE family|	178584	|178596	|2091.0830	|177395	|178600|
+|2	|347	|5	|5	|1.0	|KXB58987.1	|KXB57588.1|	WP_072520414.1|	WP_179940754.1	|WP_031552763.1	|1	|thioesterase family protein	|57634	|57647|	3428.5290|	57652	|58035|
+|3	|397	|5	|5	|1.0	|KXB57676.1	|KXB58262.1|	WP_062173854.1	|WP_179940864.1	|WP_031551840.1	|1	|tRNA threonylcarbamoyladenosine dehydratase|	112188	|112200	|2943.4610	|112166	|112933"
+|4	|470	|5	|5	|1.0	|KXB56657.1	|KXB57232.1	|WP_021753553.1|	WP_179941091.1|	WP_003144216.1|	1	|ribosomal protein L23	|57634|	57647	|3428.5290|	57570	|57851|
+|5	|476	|5	|5	|1.0|	KXB56649.1	|KXB57240.1	|WP_021753546.1|	WP_179941101.1|	WP_003144098.1|1	|ribosomal protein L14|	61045|	61055	|980.8116|	61115|	61483|
+|6	|700	|5	|5	|1.0	|KXB58523.1	|KXB62137.1	|WP_062173198.1	|WP_179941475.1	|WP_031550272.1	|1	|RNA polymerase sigma factor RpoD|	112188|	112200|	2943.4610|	111135|	112223|
+|7	|924	|5	|5	|1.0	|KXB58861.1|	KXB61222.1	|WP_072520432.1|	WP_179941840.1	|WP_031550288.1|	1	|AI-2E family transporter	|107889	|107901|	712.1870	|106778	|107938|
+
+
 ## Квадруплексы
 Ни для одного генома квадруплексов не нашлось.
 
