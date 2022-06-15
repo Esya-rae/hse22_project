@@ -14,3 +14,6 @@
 <img width="446" alt="Screenshot 2022-06-15 at 17 08 40" src="https://user-images.githubusercontent.com/57015713/173847961-a223365f-00a1-4089-a421-4b923c5b1550.png">
 
 Как можно заметить, в этом роде бактерий не очень распространены Z-DNA
+
+Попытаемся найти кластеры
+<img width="763" alt="Screenshot 2022-06-15 at 17 15 49" src="https://user-images.githubusercontent.com/57015713/173849828-fdd72da2-3700-4c8b-9edb-395c3e3a0cd8.png">
